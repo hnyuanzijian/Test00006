@@ -1,7 +1,5 @@
 package com.yuanzijian1;
 
-
-
 /*
 匿名对象：没有引用类型变量指向的对象称作为匿名对象。
 

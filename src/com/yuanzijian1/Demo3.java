@@ -1,7 +1,4 @@
 package com.yuanzijian1;
-
-
-
 /*
 成员变量与局部变量的区别:
 	
